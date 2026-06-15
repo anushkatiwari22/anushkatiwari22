@@ -61,4 +61,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anushkatiwari22&label=Profile+Views&color=F75C7E&style=flat" alt="profile views" />
 </p>
-<p align="center">⭐️ <em>From <a href="https://github.com/anushkatiwari22">anushkatiwari22</a> with 💖</em></p>
+<p align="center">⭐️ <em>From <a href="https://github.com/anushkatiwari22">anushkatiwari22</a></em></p>
