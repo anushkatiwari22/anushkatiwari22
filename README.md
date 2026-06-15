@@ -70,10 +70,10 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anushkatiwari22&label=Profile+Views&color=F75C7E&style=flat" alt="profile views" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=80&section=footer"/>
-</p>
+</p> -->
 <p align="center">⭐️ <em>From <a href="https://github.com/anushkatiwari22">anushkatiwari22</a></em></p>
